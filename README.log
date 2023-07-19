@@ -1,0 +1,12 @@
+PROJECT USED VIM AND REACT
+
+STEP 1: install dependencies
+ - sudo yarn install OR yarn install
+
+ STEP 2:  run project
+
+ - sudo npm run dev OR npm run dev
+
+ STEP 3: run unit test
+
+ - npm test
